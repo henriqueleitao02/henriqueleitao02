@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./assets/header.svg" alt="Henrique Leitão — Software, Data and Automation. Applications. APIs. Data workflows. Lisbon, Portugal. Open to opportunities." width="100%" />
+<img src="./assets/header.svg" alt="Henrique Leitão — Software, Data and Automation. Applications. APIs. Data workflows. Lisbon, Portugal." width="100%" />
 </p>
 
 **Software Developer** · Data Engineering & Automation
